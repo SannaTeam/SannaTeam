@@ -14,8 +14,8 @@ Pour obtenir la liste complète des commandes disponibles, tapez simplement `/ai
 
 ## Comment ajouter Sannamanger à votre serveur
 
-Pour ajouter Sannamanger à votre serveur Discord, cliquez sur ([ce lien d'invitation](https://discord.com/oauth2/authorize?client_id=1121469268207341581&permissions=8&scope=bot) et suivez les instructions. Assurez-vous que vous avez les permissions nécessaires pour ajouter des bots à votre serveur.
+Pour ajouter Sannamanger à votre serveur Discord, cliquez sur [ce lien d'invitation](https://discord.com/oauth2/authorize?client_id=1121469268207341581&permissions=8&scope=bot) et suivez les instructions. Assurez-vous que vous avez les permissions nécessaires pour ajouter des bots à votre serveur.
 
 ## Support et contribution
 
-Si vous rencontrez des problèmes avec Sannamanger ou si vous avez des suggestions d'amélioration, n'hésitez pas à rejoindre notre [serveur de support]([lien vers le serveur Discord](https://discord.com/invite/TkFgY26UZk)) pour obtenir de l'aide et signaler des problèmes. Les contributions au code sont également les bienvenues!
+Si vous rencontrez des problèmes avec Sannamanger ou si vous avez des suggestions d'amélioration, n'hésitez pas à rejoindre notre serveur de support[lien vers le serveur Discord](https://discord.com/invite/TkFgY26UZk) pour obtenir de l'aide et signaler des problèmes. Les contributions au code sont également les bienvenues!
