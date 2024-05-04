@@ -18,4 +18,4 @@ Pour ajouter Sannamanger à votre serveur Discord, cliquez sur [ce lien d'invita
 
 ## Support et contribution
 
-Si vous rencontrez des problèmes avec Sannamanger ou si vous avez des suggestions d'amélioration, n'hésitez pas à rejoindre notre serveur de support[lien vers le serveur Discord](https://discord.com/invite/TkFgY26UZk) pour obtenir de l'aide et signaler des problèmes. Les contributions au code sont également les bienvenues!
+Si vous rencontrez des problèmes avec Sannamanger ou si vous avez des suggestions d'amélioration, n'hésitez pas à rejoindre notre serveur de support [lien vers le serveur Discord](https://discord.com/invite/TkFgY26UZk) pour obtenir de l'aide et signaler des problèmes. Les contributions au code sont également les bienvenues!
