@@ -5,12 +5,12 @@ Sannamanger est un bot Discord polyvalent conçu pour fournir des fonctionnalit�
 ## Fonctionnalités principales
 
 - **Modération:** Sannamanger offre une variété de commandes de modération pour gérer les membres, les messages et les salons sur votre serveur Discord.
-- **Divertissement:** Animez votre serveur avec des fonctionnalités de divertissement telles que des jeux, des sondages, des commandes de musique, des blagues aléatoires et bien plus encore.
-- **Utilitaire:** Sannamanger propose également des outils pratiques tels que la conversion de devises, la recherche sur Wikipédia, la météo, et d'autres fonctionnalités utiles pour faciliter la vie sur Discord.
+- **Divertissement:** Animez votre serveur avec des fonctionnalités de divertissement telles que des jeux, des sondages, des, des blagues aléatoires et bien plus encore.
+- **Utilitaire:** Sannamanger propose également des outils pratiques tels que la conversion de devises, et d'autres fonctionnalités utiles pour faciliter la vie sur Discord.
 
 ## Commandes disponibles
 
-Pour obtenir la liste complète des commandes disponibles, tapez simplement `!help` dans n'importe quel salon textuel où Sannamanger est présent. Cela affichera la liste des commandes ainsi que leurs descriptions et utilisations.
+Pour obtenir la liste complète des commandes disponibles, tapez simplement `/aide` dans n'importe quel salon où Sannamanger est présent. Cela affichera la liste des commandes ainsi que leurs descriptions et utilisations.
 
 ## Comment ajouter Sannamanger à votre serveur
 
